@@ -1,0 +1,63 @@
+.jumbotron {
+  text-align: center;
+  background: none;
+  padding: 0.5rem 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sectionLight {
+  background-color: #eceeef;
+  padding: 2rem;
+}
+
+.sectionDark {
+  background-color: #cccccc;
+  padding: 2rem;
+}
+.wrap {
+  margin-top: 20px;
+}
+.button {
+  background-color: #0275d8;
+  color: #ffffff;
+  display: block;
+  margin: auto;
+}
+.modalFormWrapper {
+  padding: 2rem;
+}
+
+.imgCenter {
+  display: block;
+  margin: auto;
+  width: 30%
+}
+
+.btnCenter {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 60%;
+  background-color: #0275d8;
+  color: #ffffff;
+}
+
+.size {
+  width: 30%;
+  padding: 10px;
+}
+
+a {
+  color: inherit;
+}
+
+.fa {
+  margin: 10px;
+  color: white;
+}
+
+.icons {
+  text-align: right;
+  padding-right: 130px;
+}
